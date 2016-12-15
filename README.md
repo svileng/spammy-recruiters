@@ -16,5 +16,6 @@ A growing list of spammy companies that provide outsourcing services, particular
 *@soft-group.com OR
 *@codelondon.biz OR
 *@bacancytechnology.com OR
-*@webcluesinfotech.com
+*@webcluesinfotech.com OR
+*@itechart-group.com
 ```
