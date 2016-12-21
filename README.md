@@ -20,5 +20,6 @@ A growing list of spammy companies that provide outsourcing services, particular
 *@itechart-group.com OR
 *@digitechresourcing.co.uk OR
 *@revolutiontechnology.co.uk OR
-*@softteco.com
+*@softteco.com OR
+*@itechart-group.com
 ```
