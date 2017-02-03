@@ -19,5 +19,6 @@ A growing list of spammy companies that provide outsourcing services, particular
 *@webcluesinfotech.com OR
 *@itechart-group.com OR
 *@digitechresourcing.co.uk OR
-*@revolutiontechnology.co.uk
+*@revolutiontechnology.co.uk OR
+*@southern-lights.co.uk
 ```
