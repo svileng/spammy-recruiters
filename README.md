@@ -22,5 +22,6 @@ A growing list of spammy companies that provide outsourcing services, particular
 *@revolutiontechnology.co.uk OR
 *@southern-lights.co.uk OR
 *@madisonmaclean.com OR
-*@knubisoft.com
+*@knubisoft.com OR
+*@arcanys.com
 ```
