@@ -1,4 +1,4 @@
-# outsourcing-companies-blacklist
+# email-blacklist
 A growing list of spammy companies that provide outsourcing services, particularly relevant to tech startups based in London, UK (with a bunch of recruiters added in to the mix). Feel free to send a PR and contribute to the list. Formatted for GMail for an easy copy-paste 👌
 ```
 *@classicinformatics.co.uk OR
