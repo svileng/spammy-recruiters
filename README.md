@@ -24,5 +24,6 @@ A growing list of spammy companies that provide outsourcing services, particular
 *@madisonmaclean.com OR
 *@knubisoft.com OR
 *@arcanys.com OR
-*@fullstack.london
+*@fullstack.london OR
+*@preferred-choice.co.uk
 ```
