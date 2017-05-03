@@ -25,5 +25,8 @@ A growing list of spammy companies that provide outsourcing services, particular
 *@knubisoft.com OR
 *@arcanys.com OR
 *@fullstack.london OR
-*@preferred-choice.co.uk
+*@preferred-choice.co.uk OR
+*@falconnect.in OR
+*@voltagead.com OR
+*@elpassion.pl
 ```
