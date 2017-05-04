@@ -28,5 +28,6 @@ A growing list of spammy companies that provide outsourcing services, particular
 *@preferred-choice.co.uk OR
 *@falconnect.in OR
 *@voltagead.com OR
-*@elpassion.pl
+*@elpassion.pl OR
+*@movecloser.pl
 ```
