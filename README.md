@@ -29,5 +29,6 @@ A growing list of spammy companies that provide outsourcing services, particular
 *@falconnect.in OR
 *@voltagead.com OR
 *@elpassion.pl OR
-*@movecloser.pl
+*@movecloser.pl OR
+*@tremend.com
 ```
