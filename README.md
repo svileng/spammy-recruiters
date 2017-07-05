@@ -30,5 +30,6 @@ A growing list of spammy companies that provide outsourcing services, particular
 *@voltagead.com OR
 *@elpassion.pl OR
 *@movecloser.pl OR
-*@tremend.com
+*@tremend.com OR
+*@globalapptester.com
 ```
