@@ -12,6 +12,7 @@ A growing list of spammy companies that provide outsourcing services, particular
 *@joshsoftware.com OR
 *@matrixmarketers.com OR
 *@daffodil.io OR
+*@daffodildb.com OR
 *@astburymarsden.com OR
 *@soft-group.com OR
 *@codelondon.biz OR
