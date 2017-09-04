@@ -33,5 +33,6 @@ A growing list of spammy companies that provide outsourcing services, particular
 *@movecloser.pl OR
 *@tremend.com OR
 *@globalapptester.com OR
-*@afourtech.com
+*@afourtech.com OR
+*@exploreltd.com
 ```
