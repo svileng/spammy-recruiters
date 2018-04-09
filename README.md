@@ -37,5 +37,6 @@ A growing list of spammy companies that provide outsourcing services, particular
 *@exploreltd.com OR
 *@anticusrecruitment.com OR
 *@effective-soft.com OR
-*@decemberlabs.com
+*@decemberlabs.com OR
+*@fissionlabs.com
 ```
