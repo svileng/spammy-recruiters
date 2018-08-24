@@ -39,5 +39,6 @@ A growing list of spammy companies that provide outsourcing services, particular
 *@effective-soft.com OR
 *@decemberlabs.com OR
 *@fissionlabs.com OR
-*@bitotek.co.uk
+*@bitotek.co.uk OR
+*@cloudwisesolutions.co.uk
 ```
