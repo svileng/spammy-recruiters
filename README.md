@@ -1,4 +1,4 @@
-# email-blacklist
+# Spammy Recruiters lists
 A growing list of spammy companies that provide outsourcing/recruitment services. Particularly relevant to tech startups based in London, UK. Each of the companies below are doing mass emails, have automatic email follow ups when you do not reply (sometimes up to 5-6 emails) and either do not have "unsubscribe" links or the links don't work.
 
 The lists below are formatted for Gmail for an easy copy-paste 👌 Note that there is a limit to how long the `from` criteria can be, so you have to create multiple filters — I have splitted the criteria into batches to make it easier.
