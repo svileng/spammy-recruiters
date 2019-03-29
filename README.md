@@ -3,7 +3,7 @@ A growing list of spammy companies that provide outsourcing/recruitment services
 
 The lists below are formatted for Gmail for an easy copy-paste 👌 Note that there is a limit to how long the `from` criteria can be, so you have to create multiple filters — I have splitted the criteria into batches to make it easier.
 
-### Lists with criteria
+### Lists
 
 ```
 *@classicinformatics.co.uk OR
